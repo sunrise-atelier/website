@@ -3,7 +3,7 @@ raw
 Website readme · MD
 # Website
  
-The public-facing Sunrise Atelier website — program information, volunteer interest form, and the organization's front door.
+Sunrise Atelier website — program information, volunteer interest form, and the organization's front door.
  
 ---
  
@@ -27,14 +27,14 @@ npm install
  
 ### Environment variables
  
-```bash
+```
 cp .env.example .env.local
 # fill in your Supabase URL and anon key
 ```
  
 ### Run locally
  
-```bash
+```
 npm run dev
 ```
  
